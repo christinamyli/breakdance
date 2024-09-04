@@ -1,6 +1,8 @@
 # Breaking Goes Global
 
 ### Project Description
+This is my first project for Columbia Lede Program.
+
 As a fan of street dance for a few years now, I knew anecdotally that the US, France, Japan, and South Korea were among the top performers in breaking, but I wanted to look at data to confirm my observations.
 
 This project went through a few iterations before I fleshed out a more interesting narrative that shifted from looking at which countries the top b-boys come from, to one about South Korea's quick ascent in the breaking world. I wanted to work on a project that lended itself well to visuals and also felt timely (given the upcoming Olympics).
@@ -23,9 +25,7 @@ Analysis was done with Python - super quick and harmless.
 ### Data Visualization
 It should be pretty clear that I had the most fun working on the data design. I maybe got carried away with stretching the boundaries of the data viz, but it was a fun exercise in coming up with interesting ideas that incorporated a hip hop theme. Hopefully it's as fun for people to look at as it was for me to conceive/make them!
 
-I first made some preliminary charts in Flourish (area charts, bar charts) and then racked my brain for other ways I could display the charts. All designs displayed on the page were made in Photoshop and Illustrator.
-
-If given more time, I would have experimented with ai2html and After Effects (and also looked at possibly After Effects to HTML??).
+I first made some preliminary charts in Flourish (area charts, bar charts) and then racked my brain for other ways I could display the charts. All designs displayed on the page were made in Photoshop and Illustrator, and animated with After Effects (and Bodymovin/Lottie) and GSAP ScrollTrigger.
 
 ### Reflections
 This project is not the most interesting in terms of the data that was used. Just getting data off of Wikipedia made me feel like I was taking the easy way out lol.
