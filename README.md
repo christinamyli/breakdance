@@ -5,7 +5,7 @@ This is my first project for Columbia Lede Program.
 
 As a fan of street dance for a few years now, I knew anecdotally that the US, France, Japan, and South Korea were among the top performers in breaking, but I wanted to look at data to confirm my observations.
 
-This project went through a few iterations before I fleshed out a more interesting narrative that shifted from looking at which countries the top b-boys come from, to one about South Korea's quick ascent in the breaking world. I wanted to work on a project that lended itself well to visuals and also felt timely (given the upcoming Olympics).
+This project went through a few iterations before I fleshed out a more interesting narrative that shifted from looking at which countries the top b-boys come from, to one about South Korea's quick ascent in the breaking world.
 
 ### Approach
 I wanted to work on a project that focused more on data visualization, thus minimizing the time I would spend on data collection and analysis. Given the visual nature of dance, I thought this topic was well suited for a data visual storytelling project.
@@ -16,8 +16,6 @@ Despite my original goals, data collection ended up taking up a larger chunk of 
 I originally started this project looking at winner results of the Red Bull BC One solo b-boy battles, as a way to look at probable 2024 Olympic breaking winners. The Jupyter notebook attached to this project contains 20 tables with results spanning 2004-2023 that I scraped off the <a href="https://en.wikipedia.org/wiki/Red_Bull_BC_One">Red Bull BC One Wikipedia page</a>. I pulled the data into Excel sheets to clean it, which I then analyzed with Python.
 
 I realized after doing this that there wasn't much of a story angle looking at only 1 competition, so I decided to expand my data collection to other international competitions. I found Wikipedia tables with winning countries for 4 international competitions: <a href="https://en.wikipedia.org/wiki/Battle_of_the_Year">Battle of the Year</a>, <a href="https://en.wikipedia.org/wiki/UK_B-Boy_Championships">UK B-Boy Championships</a>, <a href="https://en.wikipedia.org/wiki/Freestyle_Session">Freestyle Session</a>, and <a href="https://en.wikipedia.org/wiki/Chelles_Battle_Pro">Chelles Dance Pro</a>. I thought this would be an interesting dataset, since these competitions are among the longest-running and also point to the foothold Western countries have had in the breaking world. They are also some of the only competitions with publically available results (the dance world in general is very bad at managing data...).
-
-For simplicity and ease, I made an <a href="https://github.com/christinamyli/breaking/blob/main/Bboy%20Crews%20-%20Country%20and%20Year%20-%20V2.xlsx">Excel sheet</a> listing the year, winning country, and competition name to create one large database. I then analyzed that database in Python to create an area chart with accumulated wins, and bar charts with top countries according to number of wins for each competition. I thought by collecting and analyzing data in this way, I could show that there was something surprising happening in South Korea that I hadn't known before starting this project.
 
 ### Data Analysis
 Analysis was done with Python - super quick and harmless. 
