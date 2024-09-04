@@ -1,7 +1,7 @@
 # Breaking Goes Global
 
 ### Project Description
-This is my first project for Columbia Lede Program.
+This is my first project created for Columbia University's Lede Program for Data Journalism.
 
 As a fan of street dance for a few years now, I knew anecdotally that the US, France, Japan, and South Korea were among the top performers in breaking, but I wanted to look at data to confirm my observations.
 
